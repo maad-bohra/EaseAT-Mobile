@@ -92,3 +92,8 @@ The tests do not need a phone.
 - The app is portrait-only and light-theme only.
 - `npx expo export --platform android --platform ios` builds production bundles and is a quick way to check nothing is broken.
 - Dates are stored as `YYYY-MM-DD` text and times as `HH:mm` text, so there is no timezone drift.
+
+## LINK to Download
+url : https://expo.dev/accounts/maadbohra/projects/easeat/builds/6bdde224-4562-491b-aa9c-6eeea5677f39
+## Scan QR to Download
+<img width="362" height="442" alt="WhatsApp Image 2026-09-20 at 12 04 33 PM" src="https://github.com/user-attachments/assets/bd536a16-e6c5-498e-bb6e-ab54fe357062" />
