@@ -55,18 +55,6 @@ To build on your own machine instead, install Android Studio and run `npx expo r
 - Holidays, vacations and semester end stop classes being generated. A **Working day** on the same date wins over a holiday.
 - Adding a holiday removes the unmarked classes on that date. Classes you already marked, moved or added by hand are kept.
 
-## Differences from the web app
-
-Removed: sign-up, sign-in, sign-out, password change, the AI assistant, natural-language timetable entry,
-and PDF calendar upload (with the confirm step that only existed for extracted dates).
-
-Changed or added:
-
-- The next 60 days of classes are created every time the app opens. The web app relied on the server for this.
-- Editing a timetable slot rebuilds its unmarked future classes. Before, the old times were left behind next to the new ones.
-- Classes you add by hand are no longer deleted when a holiday is added on that date.
-- "Today" uses the phone's local date.
-- Added: a multi-day range on the academic calendar, "Clear mark" on a class, "Mark all present", back-filling earlier weeks, and "Erase all data".
 
 ## Your data
 
